@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.219Z",
+  "wave": "wave-1d",
+  "port": "tangier",
+  "destSlug": "tangier",
+  "displayName": "Tangier",
+  "counts": {
+    "2026": 31,
+    "2027": 175,
+    "2028_discovery": 74,
+    "2028_published": 17,
+    "public_total": 221,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 17 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 57 restricted/unvalidated",
+    "validatedCount": 17,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 31,
+      "arrival": 23,
+      "departure": 21,
+      "both": 21,
+      "neither": 8,
+      "pctBoth": 67.7
+    },
+    "2027": {
+      "total": 175,
+      "arrival": 130,
+      "departure": 129,
+      "both": 129,
+      "neither": 45,
+      "pctBoth": 73.7
+    },
+    "2028": {
+      "total": 17,
+      "arrival": 17,
+      "departure": 17,
+      "both": 17,
+      "neither": 0,
+      "pctBoth": 100
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

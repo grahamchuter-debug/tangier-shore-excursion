@@ -1,0 +1,10 @@
+{
+  "port": "tangier",
+  "year": 2028,
+  "wave": "wave-1d",
+  "filterDecision": "PUBLISH",
+  "filterReason": "validated 17 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 57 restricted/unvalidated",
+  "validatedCount": 17,
+  "tier2KeysApplied": [],
+  "total": 74
+}

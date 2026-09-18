@@ -1,0 +1,174 @@
+{
+  "destination": "tangier",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace with licensed production assets before launch.",
+  "images": [
+    {
+      "file": "hero.jpg",
+      "subject": "Tangier,_Morocco.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier,_Morocco.jpg",
+      "note": "Temporary localhost stand-in — replace before production"
+    },
+    {
+      "file": "hero-home.jpg",
+      "subject": "Tangier,_Morocco.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier,_Morocco.jpg",
+      "note": "Alias of hero.jpg"
+    },
+    {
+      "file": "og-default.jpg",
+      "subject": "Tangier,_Morocco.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier,_Morocco.jpg",
+      "note": "Alias of hero.jpg"
+    },
+    {
+      "file": "cruise-port.jpg",
+      "subject": "Le cruise-ferry Excellent de GNV dans le port de Tanger au Maroc le 30 octobre 2023.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Le cruise-ferry Excellent de GNV dans le port de Tanger au Maroc le 30 octobre 2023.jpg",
+      "note": "Temporary localhost stand-in — ferry/port atmosphere"
+    },
+    {
+      "file": "historic.jpg",
+      "subject": "Tangier Medina (40115238324).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina (40115238324).jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "medina.jpg",
+      "subject": "Tangier Medina (40115238324).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina (40115238324).jpg",
+      "note": "Alias of historic.jpg"
+    },
+    {
+      "file": "walking.jpg",
+      "subject": "Tangier Medina 4.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina 4.JPG",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "kasbah.jpg",
+      "subject": "Kasbah, Tánger, Marruecos, 2015-12-11, DD 26.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Kasbah, Tánger, Marruecos, 2015-12-11, DD 26.JPG",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "cape-spartel.jpg",
+      "subject": "Cap Spartel 4.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Cap Spartel 4.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "coastal.jpg",
+      "subject": "Cap Spartel 5.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Cap Spartel 5.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "coast.jpg",
+      "subject": "Cap Spartel 5.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Cap Spartel 5.jpg",
+      "note": "Alias of coastal.jpg"
+    },
+    {
+      "file": "hercules-caves.jpg",
+      "subject": "Hercules Cave Tangiers.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Hercules Cave Tangiers.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "cafe-hafa.jpg",
+      "subject": "Café Hafa, Tangier (48169).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Café Hafa, Tangier (48169).jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "chefchaouen.jpg",
+      "subject": "Chefchaouen (Blue City).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Chefchaouen (Blue City).jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "markets.jpg",
+      "subject": "Tangier - Grand Socco - 20200906181817.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier - Grand Socco - 20200906181817.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "viewpoints.jpg",
+      "subject": "Faro del cabo Espartel, Marruecos, 2015-12-11, DD 02.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Faro del cabo Espartel, Marruecos, 2015-12-11, DD 02.JPG",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "subject": "Tangier Medina souvenir shop.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina souvenir shop.JPG",
+      "note": "Temporary localhost stand-in — market/food atmosphere"
+    },
+    {
+      "file": "food.jpg",
+      "subject": "Tangier Medina souvenir shop.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina souvenir shop.JPG",
+      "note": "Alias of food-and-wine.jpg"
+    },
+    {
+      "file": "wine.jpg",
+      "subject": "Tangier Medina souvenir shop.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina souvenir shop.JPG",
+      "note": "Alias of food-and-wine.jpg"
+    },
+    {
+      "file": "nature.jpg",
+      "subject": "Outside the caves of Hercules, Morocco.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Outside the caves of Hercules, Morocco.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "private.jpg",
+      "subject": "Kasbah Museum of Tangier 17092021 003.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Kasbah Museum of Tangier 17092021 003.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "photography.jpg",
+      "subject": "Tangier Medina 2.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier Medina 2.JPG",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "family.jpg",
+      "subject": "Grand Socco Tangier.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Grand Socco Tangier.jpg",
+      "note": "Temporary localhost stand-in"
+    },
+    {
+      "file": "compare.jpg",
+      "subject": "Tangier (31631320361).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tangier (31631320361).jpg",
+      "note": "Temporary localhost stand-in"
+    }
+  ]
+}
