@@ -23,8 +23,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "05:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "arrival only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-09-14",
@@ -32,8 +31,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-09-19",
@@ -59,8 +57,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-09-30",
@@ -95,8 +92,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-09",
@@ -104,8 +100,7 @@
     "cruiseLine": "Crystal Cruises",
     "arrival": "06:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "arrival only"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-10",
@@ -113,8 +108,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-11",
@@ -174,8 +168,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-12-05",
@@ -289,8 +282,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-02-22",
@@ -325,8 +317,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-04-05",
@@ -344,8 +335,7 @@
     "arrival": "10:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-04-06",
@@ -372,8 +362,7 @@
     "arrival": "06:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "16h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "16h"
   },
   {
     "date": "2027-04-11",
@@ -407,8 +396,7 @@
     "arrival": "07:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "11h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "11h"
   },
   {
     "date": "2027-04-16",
@@ -425,8 +413,7 @@
     "cruiseLine": "P & O Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-18",
@@ -434,8 +421,7 @@
     "cruiseLine": "MSC Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-22",
@@ -452,8 +438,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-23",
@@ -514,8 +499,7 @@
     "arrival": "09:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "9h"
   },
   {
     "date": "2027-04-30",
@@ -523,8 +507,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-04-30",
@@ -533,8 +516,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-05-02",
@@ -543,8 +525,7 @@
     "arrival": "07:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-05-03",
@@ -552,8 +533,7 @@
     "cruiseLine": "Royal Caribbean Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-04",
@@ -687,8 +667,7 @@
     "arrival": "07:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-05-23",
@@ -704,8 +683,7 @@
     "cruiseLine": "Marella Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-26",
@@ -713,8 +691,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "05:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "arrival only"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-27",
@@ -722,8 +699,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-28",
@@ -732,8 +708,7 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-05-30",
@@ -1811,7 +1786,10 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "8h"
+    "timeInPort": "8h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-01-15",
@@ -1820,7 +1798,10 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-01-22",
@@ -1829,7 +1810,10 @@
     "arrival": "08:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "9h"
+    "timeInPort": "9h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-02-13",
@@ -1838,7 +1822,10 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "timeInPort": "11h"
+    "timeInPort": "11h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-02-20",
@@ -1847,7 +1834,10 @@
     "arrival": "08:00",
     "departure": "19:00",
     "callType": "Port of call",
-    "timeInPort": "11h"
+    "timeInPort": "11h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-03-06",
@@ -1856,7 +1846,10 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-03-17",
@@ -1865,7 +1858,10 @@
     "arrival": "07:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "11h"
+    "timeInPort": "11h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-03-19",
@@ -1874,7 +1870,10 @@
     "arrival": "10:00",
     "departure": "21:00",
     "callType": "Port of call",
-    "timeInPort": "11h"
+    "timeInPort": "11h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-03-30",
@@ -1883,7 +1882,10 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-04-13",
@@ -1892,7 +1894,10 @@
     "arrival": "08:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "9h"
+    "timeInPort": "9h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-06-08",
@@ -1901,7 +1906,10 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-06-24",
@@ -1910,7 +1918,10 @@
     "arrival": "08:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-08-02",
@@ -1919,7 +1930,10 @@
     "arrival": "11:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "7h"
+    "timeInPort": "7h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-08-19",
@@ -1928,7 +1942,10 @@
     "arrival": "08:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "8h"
+    "timeInPort": "8h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-09-24",
@@ -1937,7 +1954,10 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-10-06",
@@ -1946,7 +1966,10 @@
     "arrival": "08:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "9h"
+    "timeInPort": "9h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   },
   {
     "date": "2028-11-01",
@@ -1955,6 +1978,9 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h"
+    "timeInPort": "10h",
+    "provenance": "ct_validated_future_itinerary",
+    "validationPath": "C_ct_only_future_discovery",
+    "timeProvenance": "ct_discovery"
   }
 ]
